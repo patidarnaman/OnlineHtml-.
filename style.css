@@ -1,0 +1,30 @@
+.button {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  height: 48px;
+  width: fit-content;
+  color: #396df2;
+  background-color: white;
+  border: 1px solid #4c5ace;
+  border-radius: 8px;
+  margin: 12px 0;
+  padding: 12px;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: #fff;
+  background-color: #6070ff;
+  border: 1px solid #6070ff;
+  box-shadow: 0 8px 16px rgb(64 83 252 / 24%);
+}
+
+a {
+  text-decoration: none;
+}
+
+/* a:hover {
+  
+} */
